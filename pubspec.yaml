@@ -1,7 +1,6 @@
 name: persian_push
 description: A new Flutter plugin.
 version: 0.0.1
-author: AliZare <a.zare.developer@gmail.com>
 homepage: https://github.com/pesareyazdi/persian_push
 
 environment:
